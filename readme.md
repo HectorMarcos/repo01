@@ -2,7 +2,8 @@
 
 ## Steps
 
-```mkdir repo01
+```
+mkdir repo01
 cd repo01
 git init
 touch readme.md
